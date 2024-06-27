@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/tan2002/Employee-Management-System.git)
 
-- 🌱 I’m currently learning **Spring, Spring boot, Hibernate.**
+- 🌱 I’m currently learning **Docker, AWS and Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tan2002](https://github.com/tan2002)
 
-- 💬 Ask me about **Java, JDBC, JSP and Servlets. Along with that C++, C, Python.**
+- 💬 Ask me about **Java, Spring boot, data JPA Along with that C++, C, Python.**
 
 - 📫 How to reach me **tanmaydhanvijay0586@gmail.com**
 
